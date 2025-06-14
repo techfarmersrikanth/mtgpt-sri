@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Deploying application"
+echo "Deploying applications"
 sudo systemctl restart httpd
